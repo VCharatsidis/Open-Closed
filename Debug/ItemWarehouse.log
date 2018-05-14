@@ -1,0 +1,10 @@
+﻿  ProductFilter.cpp
+  Product.cpp
+  Main.cpp
+c:\users\vcharatsidis\documents\visual studio 2017\projects\itemwarehouse\itemwarehouse\main.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\vcharatsidis\documents\visual studio 2017\projects\itemwarehouse\itemwarehouse\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ISpecification.cpp
+  BetterFilter.cpp
+  Generating Code...
+  ItemWarehouse.vcxproj -> c:\users\vcharatsidis\documents\visual studio 2017\Projects\ItemWarehouse\Debug\ItemWarehouse.exe
+  ItemWarehouse.vcxproj -> c:\users\vcharatsidis\documents\visual studio 2017\Projects\ItemWarehouse\Debug\ItemWarehouse.pdb (Partial PDB)
